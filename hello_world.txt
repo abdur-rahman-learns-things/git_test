@@ -1,1 +1,3 @@
 this is an example of some text: foo, bar, baz, foobar, qux, quux
+
+this is an example of COOL text: pulp fiction, days of heaven, dune
